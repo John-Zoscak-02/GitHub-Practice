@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spelling_App</string>
+    <string name="Header">Spelling Game</string>
+    <string name="Button">Begin!</string>
+    <string name="Correct">Correct</string>
+    <string name="Skip">Skip</string>
+    <string name="Incorrect">Incorrect</string>
+    <string name="Confirm">Confirm:</string>
+    <string name="Reset">Reset</string>
+
+
+</resources>
